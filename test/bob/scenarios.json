@@ -1,0 +1,8 @@
+{
+    "bob": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "bob": {}
+        }
+    }
+}

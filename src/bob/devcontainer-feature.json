@@ -1,0 +1,10 @@
+{
+    "name": "Bob build system",
+    "id": "bob",
+    "version": "1.0.0",
+    "description": "Write once. Build once. Anywhere.",
+    "dependsOn": {
+        "ghcr.io/devcontainers/features/docker-in-docker": {},
+        "ghcr.io/devcontainers/features/nix": {}
+    }
+}
