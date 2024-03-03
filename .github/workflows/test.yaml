@@ -15,6 +15,7 @@ jobs:
       matrix:
         features:
           - bob
+          - devbox
         baseImage:
           - debian:latest
           - ubuntu:latest
