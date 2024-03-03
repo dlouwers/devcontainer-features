@@ -7,7 +7,7 @@ Write once. Build once. Anywhere.
 
 ```json
 "features": {
-    "ghcr.io/dlouwers/devcontainer-feature-bob/bob:1": {}
+    "ghcr.io/dlouwers/devcontainer-features/bob:1": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Write once. Build once. Anywhere.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dlouwers/devcontainer-feature-bob/blob/main/src/bob/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dlouwers/devcontainer-features/blob/main/src/bob/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
