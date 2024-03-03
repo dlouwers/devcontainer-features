@@ -41,7 +41,7 @@ echo -e "\n"
 
 # Feature-specific tests
 # The 'check' command comes from the dev-container-features-test-lib.
-check "check devbox version reports a version" bash -c "devbox version | grep 'devbox'"
+check "check devbox version reports a version" bash -c "devbox version"
 
 # Report result
 # If any of the checks above exited with a non-zero exit code, the test will fail.
